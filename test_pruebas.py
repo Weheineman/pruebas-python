@@ -1,4 +1,4 @@
-def suma(n. m):
+def suma(n, m):
   return n + m
 
 def test_suma():
